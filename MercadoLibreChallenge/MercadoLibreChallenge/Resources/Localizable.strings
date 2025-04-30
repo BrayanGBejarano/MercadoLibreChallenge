@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  MercadoLibreChallenge
+
+  Created by Brayan Bejarano on 24/04/25.
+ 
+*/
+
+// MARK: - General
+"general.ok" = "OK";
+"general.cancel" = "Cancelar";
+"general.error" = "Error";
+"general.retry" = "Reintentar";
+
+// MARK: - Search
+"search.title" = "Buscar en MercadoLibre";
+"search.placeholder" = "Qué estás buscando?";
+"search.empty" = "No encontramos resultados";
+
+// MARK: - Product Detail
+"product.condition.new" = "Nuevo";
+"product.condition.used" = "Usado";
+"product.price.title" = "Precio";
+"product.shipping.free" = "Envío gratis";
+
+// MARK: - Errors
+"error.network" = "Problema de conexión";
+"error.server" = "Error en el servidor";
